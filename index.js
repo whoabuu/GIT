@@ -8,4 +8,5 @@ function newBranch(){
 } 
 function feature2(){
     console.log("Featire2.0");
+    console.log("Just checking");
 }
