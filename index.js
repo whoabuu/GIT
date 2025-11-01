@@ -5,4 +5,7 @@ const DOB = '20-09-2005';
 function newBranch(){
     console.log("New Branch Crerated");
     console.log("hello");
+} 
+function feature2(){
+    console.log("Featire2.0");
 }
